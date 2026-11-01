@@ -1,9 +1,9 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=55&duration=3000&pause=1250&color=C41E3A&center=false&vCenter=true&width=800&height=80&lines=HelloWorld%28%22print%22%29%3BAkitsuu.exe" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=55&duration=3000&pause=1250&color=A33035&center=false&vCenter=true&width=800&height=80&lines=HelloWorld%28%22print%22%29%3BAkitsuu.exe" alt="Typing Animation" />
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C41E3A&height=2" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C41E3A&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A33035&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A33035&height=2" width="100%" />
 </p> 
 
 ### Description
@@ -45,6 +45,6 @@
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C41E3A,100:0D1117&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A33035,100:0D1117&height=110&section=footer" width="100%" />
 </div>
 </div>
